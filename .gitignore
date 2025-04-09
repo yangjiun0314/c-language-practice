@@ -1,0 +1,18 @@
+# 실행 파일
+*.exe
+
+# 디버그 파일
+*.obj
+*.out
+
+# macOS 관련
+.DS_Store
+
+# VS Code 설정 폴더
+.vscode/
+
+# 리눅스/유닉스 백업 파일
+*~
+
+# Replit 관련 파일 (쓸 경우)
+.replit
