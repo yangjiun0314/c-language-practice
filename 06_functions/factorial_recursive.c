@@ -12,4 +12,5 @@ int main(void) {
 	scanf("%d", &n);
 	printf("%d\n", factorial(n));
 	system("pause");
+	return 0;
 }
