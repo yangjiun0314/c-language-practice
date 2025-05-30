@@ -16,8 +16,8 @@ C 언어 기본 문법을 실습하고 정리한 저장소입니다.
 - `10_string`: 문자열의 개념, 문자열 리터럴, 입력 함수(gets/gets_s), 문자열 함수 실습
 - `11_variable_memory`: 전역/지역/정적/레지스터 변수, 값/참조 전달 방식 실습
 - `12_multidimensional_arrays`: 다차원 배열과 포인터 배열 실습 (2차원 배열 초기화, 3차원 배열, 배열과 포인터의 관계, 이중 포인터 등)
-13_dynamic_memory_allocation : malloc, free, memset, 이중 포인터를 이용한 2차원 배열 등 동적 메모리 할당 실습  
-14_function_pointers : 함수 주소, 함수 포인터 선언/호출, 고차 함수(함수를 반환하는 함수) 구현 실습  
+- `13_dynamic_memory_allocation` : malloc, free, memset, 이중 포인터를 이용한 2차원 배열 등 동적 메모리 할당 실습  
+- `14_function_pointers` : 함수 주소, 함수 포인터 선언/호출, 고차 함수(함수를 반환하는 함수) 구현 실습  
 
 
 
