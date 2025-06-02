@@ -18,6 +18,7 @@ C 언어 기본 문법을 실습하고 정리한 저장소입니다.
 - `12_multidimensional_arrays`: 다차원 배열과 포인터 배열 실습 (2차원 배열 초기화, 3차원 배열, 배열과 포인터의 관계, 이중 포인터 등)
 - `13_dynamic_memory_allocation` : malloc, free, memset, 이중 포인터를 이용한 2차원 배열 등 동적 메모리 할당 실습  
 - `14_function_pointers` : 함수 주소, 함수 포인터 선언/호출, 고차 함수(함수를 반환하는 함수) 구현 실습  
+- `15_structs` : 구조체 정의, 값 대입 및 출력, typedef 사용, 포인터를 활용한 동적 구조체 사용 실습 
 
 
 
